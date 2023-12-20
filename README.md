@@ -1,8 +1,13 @@
 <h1>Hi, I'm Aliyah!</h1>
 
-<h2>Projects:</h2>
-
-<h2>Certifications:</h2>
+<h2> Projects:</h2>
+- <b><a href="https://github.com/aliyah1m/pentestMetasploit">Basic Penetration Testing with Metasploit</a></b>
+<br>
+- <b><a href="https://github.com/aliyah1m/pentestMetasploit">SQL Injection with Kali</a></b>
+<br>
+- <b><a href="https://github.com/aliyah1m/pentestMetasploit">Creating an Active Directory</a></b>
+<br>
+- <b><a href="https://github.com/aliyah1m/pentestMetasploit">Creating a File Integrity Monitor</a></b>
 
 <h2>Connect with me:</h2>
 
